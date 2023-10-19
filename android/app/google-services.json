@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732722047020",
+    "project_id": "immedic-6d523",
+    "storage_bucket": "immedic-6d523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732722047020:android:c376deb205fa977a5d4989",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732722047020-flupm2mtspdq7laf2474v9l7ghu5i99j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vsgu6eRU73nDSKo0IWKAILX_2UTrir0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732722047020-flupm2mtspdq7laf2474v9l7ghu5i99j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
